@@ -1,0 +1,5 @@
+1)Temel Gereksinimleri Oluştur => css,js files BS4 NPM paketleri  ...
+2)html temel elementlerini oluştur navbar-yorumlar hakkımda iletişim yaptığım işler
+3)hakkımda bölümü lorem ipsum ile doldurulacak.
+4)Resim galerisi oluştur.
+5)Yorumlar kısmında ekle sil şeklinde yorumlar kısmı oluşturulacak.
